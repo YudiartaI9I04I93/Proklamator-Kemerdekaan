@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1672453316,
+	"version": 1672639661,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -78,6 +78,14 @@
 		"images/soal10-sheet0.png",
 		"images/jawaban9-sheet0.png",
 		"images/asset-sheet0.png",
+		"images/materi4-sheet0.png",
+		"images/teks-sheet0.png",
+		"images/video-sheet0.png",
+		"images/bioskop-sheet0.png",
+		"images/pause-sheet0.png",
+		"images/play-sheet0.png",
+		"images/plus-sheet0.png",
+		"images/volmin-sheet0.png",
 		"media/tombol.m4a",
 		"media/tombol.ogg",
 		"media/backsound.m4a",
@@ -87,6 +95,10 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"project.mp4",
+		"video.mp4",
+		"video.webm",
+		"video2.mp4"
 	]
 }
